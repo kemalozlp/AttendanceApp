@@ -1,0 +1,95 @@
+.studentContainer {
+  width: 1280px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+
+  >h1 {
+    border-bottom: 2px solid rgb(30, 100, 100);
+    text-align: center;
+  }
+}
+
+.StudentList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+
+  h1 {
+    text-align: center;
+  }
+}
+
+.studentItem {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  color: black;
+  position: relative;
+
+  h1 {
+    font-size: 16px;
+  }
+
+  a {
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 8px;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .studentFooter {
+    display: flex;
+
+    a {
+      background: white;
+      border: 2px solid black;
+      display: flex;
+      align-items: center;
+    }
+  }
+
+}
+
+.studentItem:nth-child(odd) {
+  background: #150E23;
+  color: white;
+
+  .studentFooter {
+    display: flex;
+
+    a {
+      background: white;
+      display: flex;
+      align-items: center;
+    }
+  }
+
+}
+
+@media (width <=768px) {
+  .studentContainer {
+    width: 100%;
+  }
+
+  .classItem {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .classAdd {
+    width: 90%;
+    margin: 0 auto;
+  }
+}

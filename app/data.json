@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "9.Dönem Frontend Uzmanlık Sınıfı",
+    "teacher": "Furkan Özay",
+    "period": "9",
+    "location": "Class 114",
+    "students": [
+      {
+        "id": 1,
+        "detailId": 1,
+        "name": "Muhammed Baki Çağlayan",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "muhammedbakicaglayan@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 2,
+        "detailId": 2,
+        "name": "Kemal Özalp",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "kemalozlp@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 3,
+        "detailId": 3,
+        "name": "Berat Dimen",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "beratefedimen@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 4,
+        "detailId": 4,
+        "name": "Sıla Kara",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "Sıla@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 5,
+        "detailId": 5,
+        "name": "Sudenur Taştekin",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "Sudenur@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 6,
+        "detailId": 6,
+        "name": "Ece Sema Bekdemir",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "EceSema@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 7,
+        "detailId": 7,
+        "name": "Muhammed Hasan Türkmen",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "MuhammedHasan@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 8,
+        "detailId": 8,
+        "name": "Furkan Coşar",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Furkan@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 9,
+        "detailId": 9,
+        "name": "Doğa Savaş",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "Doğa@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 10,
+        "detailId": 10,
+        "name": "Ece Ceylan",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "Ece@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 11,
+        "detailId": 11,
+        "name": "Halil Yormaz",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Halil@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 12,
+        "detailId": 12,
+        "name": "Elif Keskin",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "Elif@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 13,
+        "detailId": 13,
+        "name": "Gökhan Ünlü",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Gökhan@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 14,
+        "detailId": 14,
+        "name": "Kerem Kaçmaz",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Kerem@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 15,
+        "detailId": 15,
+        "name": "Doğukan Sarı",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Doğukan@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 16,
+        "detailId": 16,
+        "name": "Berk Uçar",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Berk@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 17,
+        "detailId": 17,
+        "name": "Aysu Aşçı",
+        "number": "20240705482",
+        "gender": "Kadın",
+        "absenteeism": "0",
+        "email": "Aysu@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 18,
+        "detailId": 18,
+        "name": "Fatih Can Kaya",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "FatihCan@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 19,
+        "detailId": 19,
+        "name": "Arda Toraman",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Arda@gmail.com",
+        "birthDate": "1996-5-30"
+      },
+      {
+        "id": 20,
+        "detailId": 20,
+        "name": "Tunahan Orak",
+        "number": "20240705482",
+        "gender": "Erkek",
+        "absenteeism": "0",
+        "email": "Tunahan@gmail.com",
+        "birthDate": "1996-5-30"
+      }
+    ]
+  }
+]

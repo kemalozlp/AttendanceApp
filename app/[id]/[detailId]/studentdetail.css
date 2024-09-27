@@ -1,0 +1,94 @@
+.studentdetailContainer {
+  width: 990px;
+  margin: 50px auto;
+  background: white;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  a {
+    padding: 5px 10px;
+    color: rgb(14, 14, 70);
+    border-radius: 10px;
+    text-decoration: none;
+    border: 2px solid rgb(14, 14, 70);
+  }
+}
+
+.studentHeader {
+  display: flex;
+}
+
+.studentcart {
+  width: 990px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center; 
+  padding: 10px;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+.studentHead {
+  width: 100%;
+  padding: 5px 10px;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 10% 90%;
+  align-items: center;
+
+  h1 { 
+    border-radius: 10px;
+    margin: 0 auto;
+    background: rgb(14, 14, 70);
+    color: white;
+    padding: 5px 10px;
+  }
+}
+
+.detail {
+  width: 100%;
+  font-size: 24px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+
+  p {
+    border-bottom: 2px solid rgb(14, 14, 70);
+    padding: 10px 15px;
+    border-radius: 10px;
+  }
+}
+
+
+
+@media (width <=768px) {
+  .studentdetailContainer {
+    width: 100%;
+  }
+
+  .student {
+    width: 90%;
+    height: 100%;
+    padding: 20px;
+  }
+
+  .classItem {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .classAdd {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .detail {
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+}
